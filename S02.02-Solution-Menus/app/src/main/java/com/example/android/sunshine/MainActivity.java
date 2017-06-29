@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         mWeatherTextView = (TextView) findViewById(R.id.tv_weather_data);
 
         /* Once all of our views are setup, we can load the weather data. */
-        loadWeatherData();
+        loadWeatherData();44
     }
 
     /**
